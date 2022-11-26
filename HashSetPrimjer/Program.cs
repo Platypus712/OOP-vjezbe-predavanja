@@ -13,7 +13,7 @@ namespace HashSetPrimjer
             HashSet<string> imena = new HashSet<string>();
             imena.Add("Pero");
             imena.Add("Nikola");
-            imena.Add("je");
+            imena.Add("nije");
             imena.Add("super");
 
             foreach (string ime in imena)
